@@ -181,30 +181,30 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Overall Report
 
-![https://github.com/Saimahi7036/Business_Insights_360/blob/main/Overall.gif)
+![Overall.gif][https://github.com/Saimahi7036/Business_Insights_360/blob/main/Overall.gif)
 
 ## Info Page
 
-![https://github.com/Saimahi7036/Business_Insights_360/blob/main/Info.gif)
+![Info.gif][https://github.com/Saimahi7036/Business_Insights_360/blob/main/Info.gif)
 
 ## Finance View
 
 ![Finace.gif](https://github.com/Saimahi7036/Business_Insights_360/blob/main/Finace.gif)
 ## Sales View
 
-![https://github.com/Saimahi7036/Business_Insights_360/blob/main/Sales.gif)
+![Sales.gif][https://github.com/Saimahi7036/Business_Insights_360/blob/main/Sales.gif)
 
 ## Marketing View
 
-![https://github.com/Saimahi7036/Business_Insights_360/blob/main/Marketing.gif)
+![Marketing.gif][https://github.com/Saimahi7036/Business_Insights_360/blob/main/Marketing.gif)
 
 ## Supply chain View
 
-![https://github.com/Saimahi7036/Business_Insights_360/blob/main/supply%20chain.gif)
+![Supply.gif][https://github.com/Saimahi7036/Business_Insights_360/blob/main/supply%20chain.gif)
 
 ## Executive View
 
-![https://github.com/Saimahi7036/Business_Insights_360/blob/main/Executive.gif)
+![Executive.gif][https://github.com/Saimahi7036/Business_Insights_360/blob/main/Executive.gif)
 
 ## Products
 
